@@ -75,3 +75,4 @@ console.log(a)
 // {
 //     console.log(i)
 // }
+var a=20
